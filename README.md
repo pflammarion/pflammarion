@@ -1,14 +1,14 @@
 ### Hi there 👋
 
-I am a junior self-employed developer in my company FlamInfo.
+I am a junior self-employed developer in my firm FlamInfo.
 
-I am studying in french engineering school named ISEP.
+I am studying in a renowned french engineering university called ISEP
 
-You can easily check my **[portfolio](https://paul.flammarion.eu)** or my company website : https://www.flaminfo.fr
+You can check my **[portfolio](https://paul.flammarion.eu)** or my business' website with ease at this address : https://www.flaminfo.fr
 
-Feel free to submit issues or mr, I will check them as fast as possible.
+Feel free to submit any issues or mr, I will look into it.
 
-I hope we will work together soon :)
+I Hope we can work together very soon :)
 
 [<img src="https://img.shields.io/badge/LinkedIn-282C34?logo=linkedin&logoColor=0077B5" alt="LinkedIn logo" title="LinkedIn" height="25" />](https://www.linkedin.com/in/paul-flammarion-825466236)
 
