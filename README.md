@@ -14,3 +14,6 @@ I Hope we can work together very soon :)
 
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=pflammarion&show_icons=true&theme=gotham" alt="pflammarion" />
+
+---
+[![](https://visitcount.itsvg.in/api?id=pflammarion&label=Visitors&color=8&icon=1&pretty=true)](https://visitcount.itsvg.in)
