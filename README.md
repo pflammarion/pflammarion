@@ -2,9 +2,9 @@
 
 I am a junior self-employed developer in my firm FlamInfo.
 
-I am studying in a renowned french engineering university called ISEP
+I am studying at a renowned French engineering university called ISEP
 
-You can check my **[portfolio](https://paul.flammarion.eu)** or my business' website with ease at this address : https://www.flaminfo.fr
+You can check my **[portfolio](https://paul.flammarion.eu)** or my business website with ease at this address: https://www.flaminfo.fr
 
 Feel free to submit any issues or mr, I will look into it.
 
